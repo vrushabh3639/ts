@@ -1,2 +1,2 @@
-# ts
+# TS
 A repo for learning typescript.
