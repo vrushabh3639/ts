@@ -18,3 +18,10 @@ function identityThree<Type>(val: Type): Type {
 function identityFour<T>(val: T): T {
     return val
 }
+
+interface Bootle {
+    brand: string,
+    type: number
+}
+
+// identityFour<Bootle>({})
